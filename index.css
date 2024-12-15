@@ -1,0 +1,17 @@
+.buttons{
+  align-content: space-between;
+}
+body{
+  background-color: rgb(1, 1, 41);
+  color: white;
+}
+button{
+  font-size: 30px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  color: blue;
+  background-color: aqua;
+  border: none;
+  border-radius: 30px;
+}
