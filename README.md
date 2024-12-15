@@ -16,10 +16,6 @@ Simple and visually appealing user interface.
 
 How to Play
 
-Clone this repository to your local machine:
-
-git clone https://koushikbethu.github.io/Rock-Paper-Scissor/.git
-
 Open the project folder.
 
 Launch the game:
